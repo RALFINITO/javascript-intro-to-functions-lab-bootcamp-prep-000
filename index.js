@@ -11,5 +11,5 @@ function logShout(string){
 }
 
 function logWhisper(string){
-  rreturn console.log(shout(string))
+  return console.log(whisper(string))
 }
